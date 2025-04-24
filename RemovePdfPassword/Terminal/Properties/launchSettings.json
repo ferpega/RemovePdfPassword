@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Terminal": {
+      "commandName": "Project",
+      "commandLineArgs": "--filename AfileName.pdf --password ThePasswordForTheFile"
+    }
+  }
+}
